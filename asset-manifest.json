@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/vidly/static/css/main.5f361e03.chunk.css",
+    "main.js": "/vidly/static/js/main.407a0e8f.chunk.js",
+    "main.js.map": "/vidly/static/js/main.407a0e8f.chunk.js.map",
+    "runtime-main.js": "/vidly/static/js/runtime-main.9cf53b91.js",
+    "runtime-main.js.map": "/vidly/static/js/runtime-main.9cf53b91.js.map",
+    "static/css/2.89f067aa.chunk.css": "/vidly/static/css/2.89f067aa.chunk.css",
+    "static/js/2.3db19a7d.chunk.js": "/vidly/static/js/2.3db19a7d.chunk.js",
+    "static/js/2.3db19a7d.chunk.js.map": "/vidly/static/js/2.3db19a7d.chunk.js.map",
+    "index.html": "/vidly/index.html",
+    "precache-manifest.e67eb0b65eb3cfd3f26d23a57c1e83e8.js": "/vidly/precache-manifest.e67eb0b65eb3cfd3f26d23a57c1e83e8.js",
+    "service-worker.js": "/vidly/service-worker.js",
+    "static/css/2.89f067aa.chunk.css.map": "/vidly/static/css/2.89f067aa.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/vidly/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3db19a7d.chunk.js.LICENSE.txt": "/vidly/static/js/2.3db19a7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9cf53b91.js",
+    "static/css/2.89f067aa.chunk.css",
+    "static/js/2.3db19a7d.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.407a0e8f.chunk.js"
+  ]
+}
